@@ -75,10 +75,10 @@ Notes:
 ![image](https://github.com/user-attachments/assets/48289a5c-11e1-49ab-b9d3-9900dbff1b78)
 
 
--Javascript Date Format:
+- Javascript Date Format:
 ![image](https://github.com/user-attachments/assets/ff54f7e4-3e85-455d-a7c7-7101b4e60fd9)
 
--Unix datetime Format:
+- Unix datetime Format:
 ![image](https://github.com/user-attachments/assets/94f3ae9a-85f4-49bc-a6c4-f6507dd8aa39)
 ![image](https://github.com/user-attachments/assets/7b845ba4-7944-49d8-93ee-9ebba2682e59)
 
