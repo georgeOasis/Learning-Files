@@ -63,7 +63,7 @@ Notes:
 ![Screenshot 2025-01-26 205049](https://github.com/user-attachments/assets/7ea305ff-a553-47e5-b0d1-714bcad8a216)
 ![image](https://github.com/user-attachments/assets/10001703-12be-45d3-a6be-1200e63d6a90)
 ## Module 3 : Serialization fundamentals
-####Date Formating Serlizer:
+#### Date Formating Serlizer:
 - IsoDateTimeConverter (Default) :
 ![image](https://github.com/user-attachments/assets/529359bf-4865-4b5b-8b19-d669ea185d9f)
 
