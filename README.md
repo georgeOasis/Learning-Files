@@ -63,3 +63,24 @@ Notes:
 ![Screenshot 2025-01-26 205049](https://github.com/user-attachments/assets/7ea305ff-a553-47e5-b0d1-714bcad8a216)
 ![image](https://github.com/user-attachments/assets/10001703-12be-45d3-a6be-1200e63d6a90)
 ## Module 3 : Serialization fundamentals
+####Date Formating Serlizer:
+- IsoDateTimeConverter (Default) :
+![image](https://github.com/user-attachments/assets/529359bf-4865-4b5b-8b19-d669ea185d9f)
+
+- MicrosoftDateFormat:
+![image](https://github.com/user-attachments/assets/2e8d508e-b76e-4ed7-aefd-7b2061b230ff)
+
+- Custom Date Formate:
+ ![image](https://github.com/user-attachments/assets/7c479dc4-1b4f-470a-9084-3afa7e8d3677)
+![image](https://github.com/user-attachments/assets/48289a5c-11e1-49ab-b9d3-9900dbff1b78)
+
+
+-Javascript Date Format:
+![image](https://github.com/user-attachments/assets/ff54f7e4-3e85-455d-a7c7-7101b4e60fd9)
+
+-Unix datetime Format:
+![image](https://github.com/user-attachments/assets/94f3ae9a-85f4-49bc-a6c4-f6507dd8aa39)
+![image](https://github.com/user-attachments/assets/7b845ba4-7944-49d8-93ee-9ebba2682e59)
+
+
+
