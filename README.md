@@ -83,4 +83,21 @@ Notes:
 ![image](https://github.com/user-attachments/assets/7b845ba4-7944-49d8-93ee-9ebba2682e59)
 
 
+delegate to be called in case of error:
+![image](https://github.com/user-attachments/assets/fd0e1dc1-268c-491e-a17f-911a45f3ae7a)
+![image](https://github.com/user-attachments/assets/3044d183-3393-4a23-9fe8-73ca74083ba8)
 
+## Module 3 : Settings and attributes
+
+![image](https://github.com/user-attachments/assets/9abc3974-607b-40be-acda-41eba6b4f609)
+![image](https://github.com/user-attachments/assets/69e82556-d384-43f9-9ad3-f957b0391e1c)
+
+### Settings:
+
+![image](https://github.com/user-attachments/assets/1f4db74e-d360-4c67-baa8-7ea45ae13a3a)
+
+![image](https://github.com/user-attachments/assets/a1394fa7-132b-444a-b47e-d7175dbf0018)
+
+![image](https://github.com/user-attachments/assets/955de423-a389-4ebf-be35-5432a63bf70f)
+
+![image](https://github.com/user-attachments/assets/b2f494df-1203-47bd-993f-204699abb2e1)
